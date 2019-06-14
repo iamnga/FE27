@@ -1,0 +1,13 @@
+h1{
+    font-size: 45px;
+    background-color: green;
+}
+
+.heading1#title1{
+    font-size: 45px;
+    background-color: yellow;
+}
+
+.wrapper #title1 {
+    background-color: red;
+}
